@@ -14,5 +14,13 @@
 	<classpathentry kind="lib" path="C:/Users/Lox/Desktop/javafx-sdk-17.0.2/lib/javafx.swing.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Lox/Desktop/javafx-sdk-17.0.2/lib/javafx.web.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Lox/Desktop/javafx-sdk-17.0.2/lib/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stecc/git/boxhead/boxhead/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stecc/git/boxhead/boxhead/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stecc/git/boxhead/boxhead/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stecc/git/boxhead/boxhead/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stecc/git/boxhead/boxhead/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stecc/git/boxhead/boxhead/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stecc/git/boxhead/boxhead/lib/javafx.web.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stecc/git/boxhead/boxhead/lib/javafx-swt.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
