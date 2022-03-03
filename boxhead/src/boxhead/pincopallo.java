@@ -1,7 +1,7 @@
 package boxhead;
 
 public class pincopallo {
-	static void main () {
+	public static void main (String[] args) {
 		System.out.println("Ciao come va?");
 	}
 }
