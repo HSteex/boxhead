@@ -1,7 +1,7 @@
 package boxhead;
 
 public class pincopallo {
-yoyoyoy
-dasdkas 
-asd
+	static void main () {
+		System.out.println("Ciao come va?");
+	}
 }
